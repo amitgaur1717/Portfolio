@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <g fill="#326CE5">
+    <path d="M24 2L4 12v24l20 10 20-10V12L24 2zm0 4.4L40.4 14 24 21.6 7.6 14 24 6.4zM6 16.4l16 7.4v17.8L6 33.6V16.4zm20 25.2V23.8l16-7.4v17.2L26 41.6z"/>
+  </g>
+  <g fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.5">
+    <polygon points="24,12 28,16 28,22 24,26 20,22 20,16"/>
+  </g>
+  <g stroke="#326CE5" stroke-width="1.5" fill="none">
+    <line x1="24" y1="12" x2="24" y2="8"/>
+    <line x1="28" y1="16" x2="32" y2="14"/>
+    <line x1="28" y1="22" x2="32" y2="24"/>
+    <line x1="24" y1="26" x2="24" y2="30"/>
+    <line x1="20" y1="22" x2="16" y2="24"/>
+    <line x1="20" y1="16" x2="16" y2="14"/>
+  </g>
+</svg>

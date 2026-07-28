@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <defs>
+    <linearGradient id="azGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0078D4"/>
+      <stop offset="100%" stop-color="#005A9E"/>
+    </linearGradient>
+  </defs>
+  <path d="M18 6L4 38h10l3-6 8 8H6l20-34h-8z" fill="url(#azGrad)"/>
+  <path d="M28 14l-5 11 9 9-19 4h31L28 14z" fill="#50E6FF" opacity="0.9"/>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <path d="M24 2L4 13.5v21L24 46l20-11.5v-21L24 2z" fill="#83CD29"/>
+  <path d="M24 46V2L4 13.5v21L24 46z" fill="#5FA04E" opacity="0.85"/>
+  <text x="24" y="29" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="800" fill="#FFFFFF">node</text>
+</svg>

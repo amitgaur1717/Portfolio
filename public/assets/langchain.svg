@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <rect x="2" y="2" width="44" height="44" rx="8" fill="#1C3C3C"/>
+  <text x="24" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#43B9A1">LANG</text>
+  <text x="24" y="34" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#43B9A1">CHAIN</text>
+  <circle cx="10" cy="38" r="2" fill="#43B9A1"/>
+  <circle cx="38" cy="10" r="2" fill="#43B9A1"/>
+  <line x1="10" y1="38" x2="38" y2="10" stroke="#43B9A1" stroke-width="0.8" stroke-dasharray="2,2"/>
+</svg>

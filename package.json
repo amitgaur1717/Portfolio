@@ -1,0 +1,86 @@
+{
+  "name": "amit-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "format": "prettier --check .",
+    "format:fix": "prettier --write ."
+  },
+  "author": {
+    "name": "Amit Kumar Gaur",
+    "email": "amitkumargaur632@gmail.com",
+    "url": "https://github.com/amitgaur1717"
+  },
+  "description": "Portfolio of Amit Kumar Gaur — AI Engineer specializing in LLMs, RAG, and production ML systems.",
+  "keywords": [
+    "amit-kumar-gaur",
+    "ai-engineer",
+    "machine-learning",
+    "llm",
+    "rag",
+    "generative-ai",
+    "pytorch",
+    "langchain",
+    "huggingface",
+    "mlops",
+    "python",
+    "portfolio",
+    "reactjs",
+    "threejs",
+    "react-fiber",
+    "typescript",
+    "tailwindcss"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amitgaur1717/portfolio.git"
+  },
+  "homepage": "https://github.com/amitgaur1717/portfolio#readme",
+  "bugs": {
+    "url": "https://github.com/amitgaur1717/portfolio/issues",
+    "email": "amitkumargaur632@gmail.com"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^4.4.1",
+    "@gsap/react": "^2.1.2",
+    "@react-three/drei": "^10.4.4",
+    "@react-three/fiber": "8",
+    "clsx": "^2.1.1",
+    "gsap": "^3.13.0",
+    "leva": "^0.10.0",
+    "maath": "^0.10.8",
+    "react": "18",
+    "react-dom": "18",
+    "react-globe.gl": "^2.34.0",
+    "react-responsive": "^10.0.1",
+    "sonner": "^2.0.6",
+    "tailwind-merge": "^3.3.1",
+    "three": "0.184.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@types/react": "18",
+    "@types/react-dom": "18",
+    "@vitejs/plugin-react": "^6.0.1",
+    "autoprefixer": "^10.4.21",
+    "eslint": "^10.0.0",
+    "eslint-plugin-react": "^7.37.5",
+    "eslint-plugin-react-hooks": "^7.0.0",
+    "eslint-plugin-react-refresh": "^0.5.0",
+    "globals": "^17.0.0",
+    "postcss": "^8.5.6",
+    "prettier": "^3.6.2",
+    "prettier-plugin-tailwindcss": "^0.8.0",
+    "tailwindcss": "3",
+    "typescript": "^6.0.2",
+    "typescript-eslint": "^8.35.1",
+    "vite": "^8.0.0"
+  }
+}
